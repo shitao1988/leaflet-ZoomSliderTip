@@ -1,0 +1,46 @@
+.leaflet-bar-tip {
+    display: none;
+    height: 180px;
+    position: absolute;
+    top: 25px;
+}
+.leaflet-control-zoomslider-tip1 {
+    background: transparent url("http://api.tianditu.com/img/map/mapNav2.png") no-repeat scroll -51px 0;
+    cursor: pointer;
+    height: 17px;
+    left: 18px;
+    overflow: hidden;
+    position: absolute;
+    top: 30px;
+    width: 29px;
+}
+.leaflet-control-zoomslider-tip2 {
+    background: transparent url("http://api.tianditu.com/img/map/mapNav2.png") no-repeat scroll -51px -19px;
+    cursor: pointer;
+    height: 17px;
+    left: 18px;
+    overflow: hidden;
+    position: absolute;
+    top: 72px;
+    width: 29px;
+}
+.leaflet-control-zoomslider-tip3 {
+    background: transparent url("http://api.tianditu.com/img/map/mapNav2.png") no-repeat scroll -51px -38px;
+    cursor: pointer;
+    height: 17px;
+    left: 18px;
+    overflow: hidden;
+    position: absolute;
+    top: 100px;
+    width: 29px;
+}
+.leaflet-control-zoomslider-tip4 {
+    background: transparent url("http://api.tianditu.com/img/map/mapNav2.png") no-repeat scroll -51px -57px;
+    cursor: pointer;
+    height: 17px;
+    left: 18px;
+    overflow: hidden;
+    position: absolute;
+    top: 128px;
+    width: 29px;
+}
